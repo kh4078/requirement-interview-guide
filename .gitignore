@@ -1,0 +1,5 @@
+# macOS 系統自動產生的檔案，不需要上傳
+.DS_Store
+
+# Claude Code 本機個人設定（權限紀錄等），不共享
+.claude/settings.local.json
